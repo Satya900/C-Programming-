@@ -2,6 +2,7 @@
 #include <stdlib.h>
 void main() 
 {
+  // Varibale declaration with their data type
   int x,y,num4,num5;
   printf("x and y value shouldnt be equal\n");
   printf("Enter the value of x\n");
